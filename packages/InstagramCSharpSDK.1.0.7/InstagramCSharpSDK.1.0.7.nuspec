@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>InstagramCSharpSDK</id>
+    <version>1.0.7</version>
+    <title>InstagramCSharpSDK</title>
+    <authors>cagri d kaynar</authors>
+    <owners>cagri d kaynar</owners>
+    <licenseUrl>https://raw.githubusercontent.com/cagrik/csharp-instagram-wrapper/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/cagrik/csharp-instagram-wrapper</projectUrl>
+    <iconUrl>http://icon_url_here_or_delete_this_line/</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>It's C# wrapper to use Instagram API.</description>
+    <summary />
+    <releaseNotes>It's C# wrapper to use Instagram API.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>Instagram Instasharp</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="6.0.5" />
+    </dependencies>
+  </metadata>
+</package>
